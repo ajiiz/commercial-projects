@@ -2,38 +2,9 @@
 
 #### Keep in mind that live links might be down due to the projects being canceled or disabled.
 
-* [Aloki](#aloki)
 * [The Labz](#thelabz)
+* [Aloki](#aloki)
 * [DreamStorm Studios](#dreamstormstudioswebsite)
-
-## Aloki
-
-#### About
-First-ever Play-to-Own blockchain gaming concept with Sustainability
-at its core. The main desire of the team was to reconnect people to
-nature. Through Alóki play-to-own metaverse, users will entertain, earn
-and educate themselves about nature and Sustainability. Actions made
-by players in the game reflect real-world actions. Alóki sanctuary was
-created to bring positive environmental change and make the world a
-better place.
-
-#### Role
-* Working on the frontend aspects of the application (new sections, components)
-* Developing a project based on NFT’s, blockchain and gaming subject
-* Taking part in the architecture side of the website development
-* Taking part in the new project releases including testing
-
-#### Technologies
-* Typescript
-* React
-* Gatsbyjs
-* Strapi with Graphql
-* Styled-components
-* AWS
-* Figma
-
-#### Link
-[Live version](https://aloki.io/)
 
 ## TheLabz
 
@@ -68,6 +39,35 @@ streaming. It allows users even to create a videoconference with a live chat!
 
 #### Link
 [Live version](https://www.thelabz.com/)
+
+## Aloki
+
+#### About
+First-ever Play-to-Own blockchain gaming concept with Sustainability
+at its core. The main desire of the team was to reconnect people to
+nature. Through Alóki play-to-own metaverse, users will entertain, earn
+and educate themselves about nature and Sustainability. Actions made
+by players in the game reflect real-world actions. Alóki sanctuary was
+created to bring positive environmental change and make the world a
+better place.
+
+#### Role
+* Working on the frontend aspects of the application (new sections, components)
+* Developing a project based on NFT’s, blockchain and gaming subject
+* Taking part in the architecture side of the website development
+* Taking part in the new project releases including testing
+
+#### Technologies
+* Typescript
+* React
+* Gatsbyjs
+* Strapi with Graphql
+* Styled-components
+* AWS
+* Figma
+
+#### Link
+[Live version](https://aloki.io/)
 
 ## DreamstormStudiosWebsite
 
