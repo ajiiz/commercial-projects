@@ -33,6 +33,40 @@ better place.
 #### Link
 [Live version](https://aloki.io/)
 
+## The Labz
+
+#### About
+A powerful tool to create online events from scratch using simple
+components. With the ability to change the size, color, pattern, and
+arrangement of the elements, the user can easily create a website or an
+online event. It has a lot of extensions and breathtaking features like 3d
+Panellum implementations, authentication, drawing blackboard, or live
+streaming. It allows users even to create a videoconference with a live chat!
+
+#### Role
+* Taking part in creation of an event platform in Next.js
+* Developing new features and bug fixing on the frontend side with the usage of multiple libraries
+* Writing tests for both frontend and backend side
+* Creating new server-side endpoints
+* Maintaining the database, generating backups and reports using SQL queries
+* Implementing new features using AWS Cloud
+* Taking part in the project build on the AWS Cloud
+* Creating basic Figma designs for the side project
+
+#### Technologies
+* Typescript
+* React
+* Nextjs
+* Axios
+* Prisma
+* Postgresql
+* Styled-components
+* AWS
+* Figma
+
+#### Link
+[Live version](https://www.thelabz.com/)
+
 ## Contact
 #### Contact me via e-mail: piotrwrobel.ajiiz@gmail.com
 
