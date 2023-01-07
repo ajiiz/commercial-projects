@@ -4,7 +4,7 @@
 
 * [Aloki](#aloki)
 * [The Labz](#thelabz)
-* [DreamStorm Studios](#dreamstorm)
+* [DreamStorm Studios](#dreamstormstudioswebsite)
 
 ## Aloki
 
