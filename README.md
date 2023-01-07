@@ -1,6 +1,6 @@
 # Commercial projects
 
-* Keep in mind that live links might be down due to the projects being canceled or disabled. *
+#### Keep in mind that live links might be down due to the projects being canceled or disabled.
 
 * [Aloki](#aloki)
 * [The Labz](#thelabz)
