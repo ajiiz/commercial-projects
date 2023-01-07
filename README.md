@@ -15,6 +15,12 @@ by players in the game reflect real-world actions. Alóki sanctuary was
 created to bring positive environmental change and make the world a
 better place.
 
+#### Role
+* Working on the frontend aspects of the application (new sections, components)
+* Developing a project based on NFT’s, blockchain and gaming subject
+* Taking part in the architecture side of the website development
+* Taking part in the new project releases including testing
+
 #### Technologies
 * Typescript
 * React
@@ -25,7 +31,7 @@ better place.
 * Figma
 
 #### Link
-[Live version]("https://aloki.io/")
+[Live version](https://aloki.io/)
 
 ## Contact
 #### Contact me via e-mail: piotrwrobel.ajiiz@gmail.com
