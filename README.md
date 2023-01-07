@@ -1,5 +1,7 @@
 # Commercial projects
 
+* Keep in mind that live links might be down due to the projects being canceled or disabled. *
+
 * [Aloki](#aloki)
 * [The Labz](#thelabz)
 * [DreamStorm Studios](#dreamstorm)
@@ -66,6 +68,29 @@ streaming. It allows users even to create a videoconference with a live chat!
 
 #### Link
 [Live version](https://www.thelabz.com/)
+
+## DreamstormStudiosWebsite
+
+#### About
+A beautiful company website made with gatsbyjs and locomotive library.
+
+#### Role
+* Working on the frontend aspects of the website
+* Developing new features and resolving bugs
+* Taking part in the architecture side of the website development
+* Maintaining the project
+* Working on the backend aspects of the application (Mailchimp)
+
+#### Technologies
+* Typescript
+* React
+* Gatsbyjs
+* Locomotive
+* Styled-components
+* Figma
+
+#### Link
+[Live version](https://dreamstormstudios.com/)
 
 ## Contact
 #### Contact me via e-mail: piotrwrobel.ajiiz@gmail.com
