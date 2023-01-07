@@ -1,7 +1,7 @@
 # Commercial projects
 
 * [Aloki](#aloki)
-* [The Labz](#the labz)
+* [The Labz](#thelabz)
 * [DreamStorm Studios](#dreamstorm)
 
 ## Aloki
@@ -33,7 +33,7 @@ better place.
 #### Link
 [Live version](https://aloki.io/)
 
-## The Labz
+## TheLabz
 
 #### About
 A powerful tool to create online events from scratch using simple
