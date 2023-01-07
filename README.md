@@ -1,7 +1,7 @@
 # Commercial projects
 
 * [Aloki](#aloki)
-* [The labz](#thelabz)
+* [The Labz](#the labz)
 * [DreamStorm Studios](#dreamstorm)
 
 ## Aloki
